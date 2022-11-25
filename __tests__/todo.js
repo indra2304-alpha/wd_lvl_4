@@ -22,7 +22,7 @@ describe("Todo List,() => {
       {
         title: "characterv3",
         completed: false,
-        dueDate: new Date(today.getTime() + lastday).toLocaleDateString(
+        dueDate: new Date(indra.getTime() + jai).toLocaleDateString(
           "en-CA"
         ),
       },
